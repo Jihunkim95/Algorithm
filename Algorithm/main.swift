@@ -7,10 +7,14 @@
 
 import Foundation
 
+print("예제 : ", terminator:  "")
+
 var input = readLine()
 
 if let input = input {
     let inputs = input.components(separatedBy: " ")
     print(inputs)
+    let A = Int(inputs[0])!
+    let B = Int(inputs[1])!
+    print(A + B)
 }
-print("hello")
