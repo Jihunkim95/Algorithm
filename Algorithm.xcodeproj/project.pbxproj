@@ -13,6 +13,11 @@
 		5CC05DD02AB8650000E5D431 /* 문자열반복출력.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC05DCF2AB8650000E5D431 /* 문자열반복출력.swift */; };
 		5CC05DD22AB8651800E5D431 /* 대소문자 변경 출력.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC05DD12AB8651800E5D431 /* 대소문자 변경 출력.swift */; };
 		5CC05DD42AB8652E00E5D431 /* 특수문자 출력.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC05DD32AB8652E00E5D431 /* 특수문자 출력.swift */; };
+		5CD6922A2AB9C9F0004794FD /* 덧셉.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692292AB9C9F0004794FD /* 덧셉.swift */; };
+		5CD6922C2AB9CA01004794FD /* 문자열붙이기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6922B2AB9CA01004794FD /* 문자열붙이기.swift */; };
+		5CD6922E2AB9CA13004794FD /* 문자열돌리기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6922D2AB9CA13004794FD /* 문자열돌리기.swift */; };
+		5CD692302AB9CA29004794FD /* 홀짝구분.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6922F2AB9CA29004794FD /* 홀짝구분.swift */; };
+		5CD692322AB9CA36004794FD /* 문자열겹치기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692312AB9CA36004794FD /* 문자열겹치기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +41,11 @@
 		5CC05DCF2AB8650000E5D431 /* 문자열반복출력.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열반복출력.swift"; sourceTree = "<group>"; };
 		5CC05DD12AB8651800E5D431 /* 대소문자 변경 출력.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "대소문자 변경 출력.swift"; sourceTree = "<group>"; };
 		5CC05DD32AB8652E00E5D431 /* 특수문자 출력.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "특수문자 출력.swift"; sourceTree = "<group>"; };
+		5CD692292AB9C9F0004794FD /* 덧셉.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "덧셉.swift"; sourceTree = "<group>"; };
+		5CD6922B2AB9CA01004794FD /* 문자열붙이기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열붙이기.swift"; sourceTree = "<group>"; };
+		5CD6922D2AB9CA13004794FD /* 문자열돌리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열돌리기.swift"; sourceTree = "<group>"; };
+		5CD6922F2AB9CA29004794FD /* 홀짝구분.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "홀짝구분.swift"; sourceTree = "<group>"; };
+		5CD692312AB9CA36004794FD /* 문자열겹치기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열겹치기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +101,11 @@
 				5CC05DCF2AB8650000E5D431 /* 문자열반복출력.swift */,
 				5CC05DD12AB8651800E5D431 /* 대소문자 변경 출력.swift */,
 				5CC05DD32AB8652E00E5D431 /* 특수문자 출력.swift */,
+				5CD692292AB9C9F0004794FD /* 덧셉.swift */,
+				5CD6922B2AB9CA01004794FD /* 문자열붙이기.swift */,
+				5CD6922D2AB9CA13004794FD /* 문자열돌리기.swift */,
+				5CD6922F2AB9CA29004794FD /* 홀짝구분.swift */,
+				5CD692312AB9CA36004794FD /* 문자열겹치기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -153,12 +168,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD692302AB9CA29004794FD /* 홀짝구분.swift in Sources */,
 				5CC05DD02AB8650000E5D431 /* 문자열반복출력.swift in Sources */,
+				5CD692322AB9CA36004794FD /* 문자열겹치기.swift in Sources */,
 				5CC05DD42AB8652E00E5D431 /* 특수문자 출력.swift in Sources */,
 				5CC05DD22AB8651800E5D431 /* 대소문자 변경 출력.swift in Sources */,
 				5CC05DCC2AB8649300E5D431 /* 문자열출력하기.swift in Sources */,
 				5CC05DCE2AB864E700E5D431 /* a와b출력하기.swift in Sources */,
+				5CD6922E2AB9CA13004794FD /* 문자열돌리기.swift in Sources */,
+				5CD6922A2AB9C9F0004794FD /* 덧셉.swift in Sources */,
 				5CB00DAD2AB567C3001078E9 /* main.swift in Sources */,
+				5CD6922C2AB9CA01004794FD /* 문자열붙이기.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
