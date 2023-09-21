@@ -20,6 +20,11 @@
 		5CD692322AB9CA36004794FD /* 문자열겹치기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692312AB9CA36004794FD /* 문자열겹치기.swift */; };
 		5CD692342ABB1205004794FD /* 문자열 섞기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692332ABB1205004794FD /* 문자열 섞기.swift */; };
 		5CD692362ABB1268004794FD /* max값이용.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692352ABB1268004794FD /* max값이용.swift */; };
+		5CD6924D2ABC704D004794FD /* n의 배수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6924C2ABC704D004794FD /* n의 배수.swift */; };
+		5CD6924F2ABC706F004794FD /* 공배수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6924E2ABC706F004794FD /* 공배수.swift */; };
+		5CD692512ABC7096004794FD /* 홀짝에 따라 다른 값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692502ABC7096004794FD /* 홀짝에 따라 다른 값.swift */; };
+		5CD692532ABC70B7004794FD /* 조건 문자열.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692522ABC70B7004794FD /* 조건 문자열.swift */; };
+		5CD692552ABC70DE004794FD /* flag값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD692542ABC70DE004794FD /* flag값.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +55,11 @@
 		5CD692312AB9CA36004794FD /* 문자열겹치기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열겹치기.swift"; sourceTree = "<group>"; };
 		5CD692332ABB1205004794FD /* 문자열 섞기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 섞기.swift"; sourceTree = "<group>"; };
 		5CD692352ABB1268004794FD /* max값이용.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "max값이용.swift"; sourceTree = "<group>"; };
+		5CD6924C2ABC704D004794FD /* n의 배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "n의 배수.swift"; sourceTree = "<group>"; };
+		5CD6924E2ABC706F004794FD /* 공배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "공배수.swift"; sourceTree = "<group>"; };
+		5CD692502ABC7096004794FD /* 홀짝에 따라 다른 값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "홀짝에 따라 다른 값.swift"; sourceTree = "<group>"; };
+		5CD692522ABC70B7004794FD /* 조건 문자열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "조건 문자열.swift"; sourceTree = "<group>"; };
+		5CD692542ABC70DE004794FD /* flag값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "flag값.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +122,11 @@
 				5CD692312AB9CA36004794FD /* 문자열겹치기.swift */,
 				5CD692352ABB1268004794FD /* max값이용.swift */,
 				5CD692332ABB1205004794FD /* 문자열 섞기.swift */,
+				5CD6924C2ABC704D004794FD /* n의 배수.swift */,
+				5CD6924E2ABC706F004794FD /* 공배수.swift */,
+				5CD692502ABC7096004794FD /* 홀짝에 따라 다른 값.swift */,
+				5CD692522ABC70B7004794FD /* 조건 문자열.swift */,
+				5CD692542ABC70DE004794FD /* flag값.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -179,9 +194,14 @@
 				5CC05DD02AB8650000E5D431 /* 문자열반복출력.swift in Sources */,
 				5CD692322AB9CA36004794FD /* 문자열겹치기.swift in Sources */,
 				5CC05DD42AB8652E00E5D431 /* 특수문자 출력.swift in Sources */,
+				5CD692532ABC70B7004794FD /* 조건 문자열.swift in Sources */,
+				5CD692512ABC7096004794FD /* 홀짝에 따라 다른 값.swift in Sources */,
 				5CC05DD22AB8651800E5D431 /* 대소문자 변경 출력.swift in Sources */,
 				5CC05DCC2AB8649300E5D431 /* 문자열출력하기.swift in Sources */,
 				5CC05DCE2AB864E700E5D431 /* a와b출력하기.swift in Sources */,
+				5CD6924D2ABC704D004794FD /* n의 배수.swift in Sources */,
+				5CD6924F2ABC706F004794FD /* 공배수.swift in Sources */,
+				5CD692552ABC70DE004794FD /* flag값.swift in Sources */,
 				5CD6922E2AB9CA13004794FD /* 문자열돌리기.swift in Sources */,
 				5CD692342ABB1205004794FD /* 문자열 섞기.swift in Sources */,
 				5CD6922A2AB9C9F0004794FD /* 덧셉.swift in Sources */,
