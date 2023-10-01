@@ -19,6 +19,6 @@ if let input = input {
     let A = inputs[0]
 //    let B = Int(inputs[1])!
     let B = inputs[1]
-    
+    //
     print(A + B)
 }
