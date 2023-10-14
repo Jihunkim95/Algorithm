@@ -41,6 +41,9 @@
 		5C5BD22B2AD6C11C00B388FA /* 등차수열의 특정한 항만 더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6928A2AC1B3F7004794FD /* 등차수열의 특정한 항만 더하기.swift */; };
 		5C5BD2372AD8173A00B388FA /* 카운트 업.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5BD2362AD8173A00B388FA /* 카운트 업.swift */; };
 		5C5BD2392AD8175C00B388FA /* 콜라츠 수열 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5BD2382AD8175C00B388FA /* 콜라츠 수열 만들기.swift */; };
+		5C7B60B42ADAC36000CAA5DF /* 주사위 게임3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B60B32ADAC36000CAA5DF /* 주사위 게임3.swift */; };
+		5C7B60B62ADAC38900CAA5DF /* 간단한 논리연산.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B60B52ADAC38900CAA5DF /* 간단한 논리연산.swift */; };
+		5C7B60B82ADAC3A500CAA5DF /* 글자 이여붙여 문자 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7B60B72ADAC3A500CAA5DF /* 글자 이여붙여 문자 만들기.swift */; };
 		5CB00DAD2AB567C3001078E9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB00DAC2AB567C3001078E9 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +63,9 @@
 		5C52B6232AD5783000DB3DCA /* 배열만들기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열만들기2.swift"; sourceTree = "<group>"; };
 		5C5BD2362AD8173A00B388FA /* 카운트 업.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "카운트 업.swift"; sourceTree = "<group>"; };
 		5C5BD2382AD8175C00B388FA /* 콜라츠 수열 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "콜라츠 수열 만들기.swift"; sourceTree = "<group>"; };
+		5C7B60B32ADAC36000CAA5DF /* 주사위 게임3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "주사위 게임3.swift"; sourceTree = "<group>"; };
+		5C7B60B52ADAC38900CAA5DF /* 간단한 논리연산.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "간단한 논리연산.swift"; sourceTree = "<group>"; };
+		5C7B60B72ADAC3A500CAA5DF /* 글자 이여붙여 문자 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "글자 이여붙여 문자 만들기.swift"; sourceTree = "<group>"; };
 		5CB00D9C2AB558D0001078E9 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CB00DAC2AB567C3001078E9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5CB00DAE2AB5695F001078E9 /* 1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1000.swift; sourceTree = "<group>"; };
@@ -178,6 +184,9 @@
 				5CB23FAB2AC92CFA00C357CA /* 수열과 구간 쿼리4.swift */,
 				5C5BD2382AD8175C00B388FA /* 콜라츠 수열 만들기.swift */,
 				5C52B6232AD5783000DB3DCA /* 배열만들기2.swift */,
+				5C7B60B32ADAC36000CAA5DF /* 주사위 게임3.swift */,
+				5C7B60B52ADAC38900CAA5DF /* 간단한 논리연산.swift */,
+				5C7B60B72ADAC3A500CAA5DF /* 글자 이여붙여 문자 만들기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -249,7 +258,9 @@
 				5C5BD22B2AD6C11C00B388FA /* 등차수열의 특정한 항만 더하기.swift in Sources */,
 				5C5BD2162AD6C11C00B388FA /* 이어 붙인 수.swift in Sources */,
 				5C5BD2242AD6C11C00B388FA /* 주사위 게임2.swift in Sources */,
+				5C7B60B82ADAC3A500CAA5DF /* 글자 이여붙여 문자 만들기.swift in Sources */,
 				5C5BD22A2AD6C11C00B388FA /* 문자열 섞기.swift in Sources */,
+				5C7B60B62ADAC38900CAA5DF /* 간단한 논리연산.swift in Sources */,
 				5C5BD2252AD6C11C00B388FA /* 최빈값 구하기.swift in Sources */,
 				5C5BD21D2AD6C11C00B388FA /* 문자열돌리기.swift in Sources */,
 				5C5BD2222AD6C11C00B388FA /* 특수문자 출력.swift in Sources */,
@@ -258,6 +269,7 @@
 				5C5BD2282AD6C11C00B388FA /* 문자열붙이기.swift in Sources */,
 				5C5BD20E2AD6C11C00B388FA /* 마지막 두 원소.swift in Sources */,
 				5C5BD20F2AD6C11C00B388FA /* 덧셉.swift in Sources */,
+				5C7B60B42ADAC36000CAA5DF /* 주사위 게임3.swift in Sources */,
 				5C5BD21E2AD6C11C00B388FA /* 홀짝에 따라 다른 값.swift in Sources */,
 				5C5BD2212AD6C11C00B388FA /* 원소들의 곱과 합.swift in Sources */,
 				5C5BD2292AD6C11C00B388FA /* 수열과 구간 쿼리 2.swift in Sources */,
